@@ -1,10 +1,11 @@
 # Proposing Changes to a Project w/ Pull Requests
 
 With this exercise we are attempting to collect the GitHub accounts of all studends in the class.
- 
+
 ### FEWD GitHub Accounts
- 
+
   * Tom Kraak (instructor): [github.com/tkraak](https://github.com/tkraak)
+  * Sara Kenney: [github.com/SaraKenney](https://github.com/SaraKenney)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
