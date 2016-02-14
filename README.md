@@ -4,7 +4,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
  
 ### FEWD GitHub Accounts
  
-  * Tom Kraak (instructor):
+  * Tom Kraak (instructor): [github.com/tkraak](https://github.com/tkraak)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
@@ -16,3 +16,5 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Commit your changes
   * Push your changes
   * Open a pull request
+
+For additional insctructions, visit [GitHub Help](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/).
