@@ -1,9 +1,9 @@
 # Proposing Changes to a Project w/ Pull Requests
 
-With this exercise we are attempting to collect the GitHub accounts of all studends in the class.
- 
+With this exercise we are attempting to collect the GitHub accounts of all students in the class.
+
 ### FEWD GitHub Accounts
- 
+
   * Tom Kraak (instructor): [github.com/tkraak](https://github.com/tkraak)
 
 
@@ -18,3 +18,6 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Open a pull request
 
 For additional insctructions, visit [GitHub Help](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/).
+
+
+Asa Smith - AsaSmith
