@@ -5,7 +5,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 ### FEWD GitHub Accounts
 
   * Tom Kraak (instructor): [github.com/tkraak](https://github.com/tkraak)
-    Asa Smith - [github.com/AsaSmith]
+  *  Asa Smith - [github.com/AsaSmith](https://github.com/AsaSmith)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
