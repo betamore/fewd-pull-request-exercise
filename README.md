@@ -7,9 +7,9 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Tom Kraak (instructor): [github.com/tkraak](https://github.com/tkraak)
   * Asa Smith: [github.com/AsaSmith](https://github.com/AsaSmith)
   * Sara Kenney: [github.com/SaraKenney](https://github.com/SaraKenney)
-  * Marcellous Grant:
-  [github.com.Marcellousg](https://github.com/Marcellousg)
+  * Marcellous Grant: [github.com.Marcellousg](https://github.com/Marcellousg)
   * Courtney Seitz: [github.com/CourtneySeitz](https://github.com/CourtneySeitz)
+  * Matt Diehl: [github.com/diehlmh](https://github.com/diehlmh)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
