@@ -9,7 +9,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Sara Kenney: [github.com/SaraKenney](https://github.com/SaraKenney)
   * Marcellous Grant:
   [github.com.Marcellousg](https://github.com/Marcellousg)
-  * Jenna Shenk [github.com/jshenk] (https://github.com/jshenk)
+  * Jenna Shenk: [github.com/jshenk] (https://github.com/jshenk)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
