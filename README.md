@@ -10,8 +10,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Marcellous Grant:
   [github.com.Marcellousg](https://github.com/Marcellousg)
   * Courtney Seitz: [github.com/CourtneySeitz](https://github.com/CourtneySeitz)
-  * Joyce Blair [github.com/jblair53] (https://github.com/jblair530)
-
+  * Joyce Blair [github.com/jblair53](https://github.com/jblair530)
+  * Arthur Moten [github.com/AJMoten](https://github.com/AJMoten)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
