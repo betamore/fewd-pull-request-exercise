@@ -12,6 +12,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Courtney Seitz: [github.com/CourtneySeitz](https://github.com/CourtneySeitz)
   * Joyce Blair [github.com/jblair53] (https://github.com/jblair530)
   * Brian Baker [github.com/brianthomasbaker] (https://github.com/brianthomasbaker)
+  * Abigail Pendergrass [github.com/abigailpendergrass](http://github.com/abigailpendergrass)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
