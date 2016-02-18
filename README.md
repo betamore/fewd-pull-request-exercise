@@ -13,6 +13,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Brian Baker: [github.com/brianthomasbaker] (https://github.com/brianthomasbaker)
   * Jenna Shenk: [github.com/jshenk] (https://github.com/jshenk)
   * Spencer Buchness: [github.com/Sbuchness](https://github.com/SBuchness)
+  * Rob Bridges: [github.com/RobBridges](https://github.com/rob-b-b-4)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
