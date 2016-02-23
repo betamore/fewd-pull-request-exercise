@@ -20,8 +20,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Joyce Blair: [github.com/jblair53] (https://github.com/jblair530)
   * Brian Baker: [github.com/brianthomasbaker](https://github.com/brianthomasbaker)
   * Debi Howard: [github.com/DebiHoward](https://github.com/debihoward)
-
->>>>>>> cd6ff75d5b8adfd5ab3d8d11e92b68298b01d7d0
+  * Matt Diehl: [github.com/diehlmh](https://github.com/diehlmh)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
