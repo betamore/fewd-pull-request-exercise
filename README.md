@@ -15,14 +15,9 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Spencer Buchness: [github.com/Sbuchness](https://github.com/SBuchness)
   * Rob Bridges: [github.com/RobBridges](https://github.com/rob-b-b-4)
   * Courtney Holt: [github.com/cvholt](https://github.com/cvholt)
-  * Joyce Blair: [github.com/jblair53](https://github.com/jblair530)
   * Arthur Moten: [github.com/AJMoten](https://github.com/AJMoten)
-  * Joyce Blair: [github.com/jblair53] (https://github.com/jblair530)
-  * Brian Baker: [github.com/brianthomasbaker](https://github.com/brianthomasbaker)
   * Debi Howard: [github.com/DebiHoward](https://github.com/debihoward)
   * Matt Diehl: [github.com/diehlmh](https://github.com/diehlmh)
-  * Joyce Blair: [github.com/jblair53] (https://github.com/jblair530)
-  * Brian Baker: [github.com/brianthomasbaker] (https://github.com/brianthomasbaker)
   * Abigail Pendergrass: [github.com/abigailpendergrass](http://github.com/abigailpendergrass)
 
 #### Follow these steps to add your name and GitHub account to the above list:
