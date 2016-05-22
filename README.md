@@ -19,6 +19,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Debi Howard: [github.com/DebiHoward](https://github.com/debihoward)
   * Matt Diehl: [github.com/diehlmh](https://github.com/diehlmh)
   * Abigail Pendergrass: [github.com/abigailpendergrass](http://github.com/abigailpendergrass)
+  * Kat Botsford: [github.com/thekatbots](https://github.com/thekatbots)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
