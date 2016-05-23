@@ -20,6 +20,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Matt Diehl: [github.com/diehlmh](https://github.com/diehlmh)
   * Abigail Pendergrass: [github.com/abigailpendergrass](http://github.com/abigailpendergrass)
   * Kat Botsford: [github.com/thekatbots](https://github.com/thekatbots)
+  * Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
