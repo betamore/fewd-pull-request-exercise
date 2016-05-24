@@ -27,6 +27,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
   * Kat Botsford: [github.com/thekatbots](https://github.com/thekatbots)
   * Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
+  * Luke Shin: [github.com/luke-shin](https://github.com/Luke-Shin)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
