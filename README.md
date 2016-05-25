@@ -29,8 +29,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
   * Luke Shin: [github.com/luke-shin](https://github.com/Luke-Shin)
   * Rhyan Vargas: [github.com/rhyanv](https://github.com/rhyanv)
-
-
+  * Patrick Horner: [github.com/pshorner](https://github.com/pshorner)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
