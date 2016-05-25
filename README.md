@@ -30,7 +30,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Luke Shin: [github.com/luke-shin](https://github.com/Luke-Shin)
   * Rhyan Vargas: [github.com/rhyanv](https://github.com/rhyanv)
   * Patrick Horner: [github.com/pshorner](https://github.com/pshorner)
-
+  * Heather Joslyn: [github.com/hajoslyn](https://github.com/hajoslyn)
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
