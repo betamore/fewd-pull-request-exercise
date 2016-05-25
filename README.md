@@ -31,6 +31,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Rhyan Vargas: [github.com/rhyanv](https://github.com/rhyanv)
   * Patrick Horner: [github.com/pshorner](https://github.com/pshorner)
   * Matt Combs [github.com/MattCombs](https://github.com/MattCombs)
+  * Audra Macri: [github.com/audramacri/](https://github.com/audramacri/)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
