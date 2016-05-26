@@ -34,7 +34,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Audra Macri: [github.com/audramacri/](https://github.com/audramacri/)
   * Heather Joslyn: [github.com/hajoslyn](https://github.com/hajoslyn)
   * Michelle Gienow: [github/mgienow](https://github.com/mgienow)
-  
+
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
@@ -44,5 +44,15 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Commit your changes
   * Push your changes
   * Open a pull request
+
+#### Synch with upstream
+
+  * If your forked repo does not contain the most current version ("This branch is 5 commits behind Betamore/master") you will need to synch to the upstream version. Do this BEFORE creating a branch off the master.
+  * `git remote -v`
+  * `git remote add upstream`
+  * `git pull upstream`
+
+
+
 
 For additional insctructions, visit [GitHub Help](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/).
