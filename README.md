@@ -38,7 +38,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 #### Fall 2016 Class
 
 
-
+  * Herman Chenwi: [github/Herman04](https://github.com/Herman04)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
