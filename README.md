@@ -36,6 +36,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Michelle Gienow: [github/mgienow](https://github.com/mgienow)
 
 #### Fall 2016 Class
+  * Anastasia Keramidas:
+[github.com/amkeramidas](https://github.com/amkeramidas)
 
 
 
