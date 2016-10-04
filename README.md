@@ -37,7 +37,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
 #### Fall 2016 Class
 
-
+  * Victor Filatov: [github/vicfil](https://github.com/vicfil)
 
 
 
