@@ -36,11 +36,10 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Michelle Gienow: [github/mgienow](https://github.com/mgienow)
 
 #### Fall 2016 Class
-  * Anastasia Keramidas:
-[github.com/amkeramidas](https://github.com/amkeramidas)
 
-
+  * Anastasia Keramidas: [github.com/amkeramidas](https://github.com/amkeramidas)
   * Herman Chenwi: [github/Herman04](https://github.com/Herman04)
+  * Victor Filatov: [github/vicfil](https://github.com/vicfil)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
