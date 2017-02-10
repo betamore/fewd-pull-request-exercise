@@ -41,7 +41,12 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Herman Chenwi: [github/Herman04](https://github.com/Herman04)
   * Victor Filatov: [github/vicfil](https://github.com/vicfil)
 
+#### Winter 2017 Class
 
+  * Michelle Gienow [github/mgienow](https://github.com/mgienow)
+
+
+  
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
