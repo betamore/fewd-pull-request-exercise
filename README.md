@@ -41,6 +41,11 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Herman Chenwi: [github/Herman04](https://github.com/Herman04)
   * Victor Filatov: [github/vicfil](https://github.com/vicfil)
 
+#### Winter 2017 Class  
+
+  * Dan Choi: [github.com/danchoi19408](https://github.com/danchoi19408)
+
+
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
