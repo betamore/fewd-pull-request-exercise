@@ -50,6 +50,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Ryan Shovlin: [github.com/rjshovlin](https://github.com/rjshovlin)
   * Matthew Bavosa: [github/mbavosa](https://github.com/mbavosa)
   * Jaclyn Walten: [github.com/jwalten](https://github.com/jwalten)
+  * Dan Choi: [github.com/danchoi19408](https://github.com/danchoi19408)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
