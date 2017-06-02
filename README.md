@@ -45,7 +45,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
   * Natasha Sierakowski: [github/t-sierakowski](https://github.com/t-sierakowski)
   * Kate Hollingsworth: [github.com/katehollingsworth](https://github.com/katehollingsworth)
-    
+  * Michelle Gienow [github/mgienow](https://github.com/mgienow)  
+
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
