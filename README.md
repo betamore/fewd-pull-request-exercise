@@ -35,8 +35,6 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Heather Joslyn: [github.com/hajoslyn](https://github.com/hajoslyn)
   * Michelle Gienow: [github/mgienow](https://github.com/mgienow)
 
-<<<<<<< 25b1a7a9dc96024a1948a23b293a941381c93b7a
-<<<<<<< 5010fc45e5019a7f5763c55003c35baa5e9b9432
 #### Fall 2016 Class
 
   * Anastasia Keramidas: [github.com/amkeramidas](https://github.com/amkeramidas)
@@ -47,6 +45,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
   * Natasha Sierakowski: [github/t-sierakowski](https://github.com/t-sierakowski)
   * Kate Hollingsworth: [github.com/katehollingsworth](https://github.com/katehollingsworth)
+  * Joe Stephens: [github.com/stratdv](https://github.com/stratdv)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
