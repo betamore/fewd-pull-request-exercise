@@ -35,6 +35,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Heather Joslyn: [github.com/hajoslyn](https://github.com/hajoslyn)
   * Michelle Gienow: [github/mgienow](https://github.com/mgienow)
 
+<<<<<<< 25b1a7a9dc96024a1948a23b293a941381c93b7a
+<<<<<<< 5010fc45e5019a7f5763c55003c35baa5e9b9432
 #### Fall 2016 Class
 
   * Anastasia Keramidas: [github.com/amkeramidas](https://github.com/amkeramidas)
@@ -45,7 +47,6 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
   * Natasha Sierakowski: [github/t-sierakowski](https://github.com/t-sierakowski)
   * Kate Hollingsworth: [github.com/katehollingsworth](https://github.com/katehollingsworth)
-  * Michelle Gienow [github/mgienow](https://github.com/mgienow)  
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
@@ -57,4 +58,12 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Push your changes
   * Open a pull request
 
-For additional instructions, visit [GitHub Help](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/).
+#### Synch with upstream
+
+If your forked repo does not contain the most current version ("This branch is 5 commits behind Betamore/master") you will need to synch to the upstream version. Do this BEFORE creating a branch off the master.
+
+  * `git remote -v`
+  * `git remote add upstream`
+  * `git pull upstream`
+
+For additional insctructions, visit [GitHub Help](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/).
