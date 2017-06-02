@@ -47,6 +47,9 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Kate Hollingsworth: [github.com/katehollingsworth](https://github.com/katehollingsworth)
   * Joe Stephens: [github.com/stratdv](https://github.com/stratdv)
   * Andre Cawley: [github.com/andrecawley](https://github.com/andrecawley)
+  * Ryan Shovlin: [github.com/rjshovlin](https://github.com/rjshovlin)
+
+>>>>>>> efeb2c5d606bbac54e6382eb171bc935078b5aea
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
