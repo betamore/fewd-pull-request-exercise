@@ -52,6 +52,11 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Jaclyn Walten: [github.com/jwalten](https://github.com/jwalten)
   * Dan Choi: [github.com/danchoi19408](https://github.com/danchoi19408)
 
+#### Summer 2017 Class
+
+  * Kelly Mundle: [github.com/kmundle](https://github.com/kmundle)
+
+
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
