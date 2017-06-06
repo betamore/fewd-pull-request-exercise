@@ -55,6 +55,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 #### Summer 2017 Class
 
   * Kelly Mundle: [github.com/kmundle](https://github.com/kmundle)
+  * Fiona Pham: [github.com/fionapham](https://github.com/fionapham)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
