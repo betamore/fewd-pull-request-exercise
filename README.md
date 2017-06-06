@@ -76,4 +76,4 @@ If your forked repo does not contain the most current version ("This branch is 5
   * `git remote add upstream`
   * `git pull upstream`
 
-For additional insctructions, visit [GitHub Help](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/).
+For additional instructions, visit [GitHub Help](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/).
