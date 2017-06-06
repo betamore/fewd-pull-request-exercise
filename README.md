@@ -55,6 +55,9 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 #### Summer 2017 Class
 
   * Kelly Mundle: [github.com/kmundle](https://github.com/kmundle)
+  * Kinjal Bhatt: [github.com/kbot26] (https://github.com/kbot26)
+
+
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
