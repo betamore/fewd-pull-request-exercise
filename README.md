@@ -58,6 +58,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Fiona Pham: [github.com/fionapham](https://github.com/fionapham)
   * Sherri Pendleton: [github.com/msmillennialmom](https://github.com/msmillennialmom)
   * Monique Bennett-Lowe: [github.com/MBennettLowe](https://github.com/MBennettLowe)
+  * Kinjal Bhatt: [github.com/kbot26] (https://github.com/kbot26)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
