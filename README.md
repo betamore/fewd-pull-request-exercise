@@ -60,6 +60,10 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Monique Bennett-Lowe: [github.com/MBennettLowe](https://github.com/MBennettLowe)
   * Kinjal Bhatt: [github.com/kbot26](https://github.com/kbot26)
 
+#### Fall 2017 Class
+
+  * Daniel Lousa: [github.com/dlousa92](https://github.com/dlousa92)
+  
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
