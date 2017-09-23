@@ -60,7 +60,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Monique Bennett-Lowe: [github.com/MBennettLowe](https://github.com/MBennettLowe)
   * Kinjal Bhatt: [github.com/kbot26](https://github.com/kbot26)
 
-### Summer 2017 Class
+### Fall 2017 Class
 
   * Dan Losapio: [github.com/dlosapio](https://github.com/dlosapio)
 
