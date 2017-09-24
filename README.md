@@ -64,6 +64,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
   * Dan Losapio: [github.com/dlosapio](https://github.com/dlosapio)
   * Phil Alsop: [github.com/PHLYNG](https://github.com/PHLYNG)
+  * Allison Henkel: [github.com/Allihenk](https://github.com/Allihenk)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
