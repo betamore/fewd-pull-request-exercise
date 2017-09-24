@@ -63,7 +63,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 ### Fall 2017 Class
 
   * Dan Losapio: [github.com/dlosapio](https://github.com/dlosapio)
-  * Phil ALsop: [github.com/PHLYNG](https://github.com/PHLYNG)
+  * Phil Alsop: [github.com/PHLYNG](https://github.com/PHLYNG)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
