@@ -65,6 +65,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Dan Losapio: [github.com/dlosapio](https://github.com/dlosapio)
   * Phil Alsop: [github.com/PHLYNG](https://github.com/PHLYNG)
   * Allison Henkel: [github.com/Allihenk](https://github.com/Allihenk)
+  * Alex Machado: [github.com/amachado93](https://github.com/amachado93)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
@@ -78,7 +79,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
 #### Sync with upstream
 
- To minimize the likelihood of merge conflics, ensure that your fork is up to date with the destination repo of your pull request. Do this _before_ creating a branch off master:
+ To minimize the likelihood of merge conflicts, ensure that your fork is up to date with the destination repo of your pull request. Do this _before_ creating a branch off master:
 
   * `git remote add upstream https://github.com/betamore/fewd-pull-request-exercise.git`
   * `git fetch upstream`
