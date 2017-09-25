@@ -66,6 +66,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Phil Alsop: [github.com/PHLYNG](https://github.com/PHLYNG)
   * Allison Henkel: [github.com/Allihenk](https://github.com/Allihenk)
   * Alex Machado: [github.com/amachado93](https://github.com/amachado93)
+  * Han Castanedo: [github.com/hancas](https://github.com/hancas)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
