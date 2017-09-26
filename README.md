@@ -69,6 +69,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Han Castanedo: [github.com/hancas](https://github.com/hancas)
   * Jonique K Green[github.com/joniquegreen](https://github.com/joniquegreen)
   * Lindsay Cheek: [github.com/lindsaycheek](https://github.com/lindsaycheek)
+  * Lydia Tesfu: [github.com/ltesfu](https://github.com/lydiatesfu)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
