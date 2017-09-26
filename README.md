@@ -67,8 +67,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Allison Henkel: [github.com/Allihenk](https://github.com/Allihenk)
   * Alex Machado: [github.com/amachado93](https://github.com/amachado93)
   * Han Castanedo: [github.com/hancas](https://github.com/hancas)
-  * Jonique K Green[github.com/joniquegreen](https://github.com/joniquegreen)
-]
+  * Jonique K Green: [github.com/joniquegreen](https://github.com/joniquegreen)
+
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
