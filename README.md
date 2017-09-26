@@ -68,6 +68,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Alex Machado: [github.com/amachado93](https://github.com/amachado93)
   * Han Castanedo: [github.com/hancas](https://github.com/hancas)
   * Jonique K Green[github.com/joniquegreen](https://github.com/joniquegreen)
+  * Gwen Travis: [github.com/gtravis13](https://gthub.com/gtravis13)
 ]
 #### Follow these steps to add your name and GitHub account to the above list:
 
