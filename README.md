@@ -68,8 +68,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Alex Machado: [github.com/amachado93](https://github.com/amachado93)
   * Han Castanedo: [github.com/hancas](https://github.com/hancas)
   * Jonique K Green[github.com/joniquegreen](https://github.com/joniquegreen)
-  * Jason Fogg:
-  [github.com/jrfogg](https://github.com/jrfogg)
+  * Jason Fogg:[github.com/jrfogg](https://github.com/jrfogg)
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
