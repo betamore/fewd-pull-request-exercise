@@ -71,7 +71,10 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Jonique K Green: [github.com/joniquegreen](https://github.com/joniquegreen)
   * Lindsay Cheek: [github.com/lindsaycheek](https://github.com/lindsaycheek)
 
-  
+  ### Winter 2018 class
+  * Brandon Renbaum: [github.com/slide165](https://github.com/slide165)
+
+
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
