@@ -71,6 +71,9 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Jonique K Green: [github.com/joniquegreen](https://github.com/joniquegreen)
   * Lindsay Cheek: [github.com/lindsaycheek](https://github.com/lindsaycheek)
 
+#### Winter 2018 Class
+
+  * Ben Spier: [github.com/benspier](https://github.com/benspier)
   
 #### Follow these steps to add your name and GitHub account to the above list:
 
