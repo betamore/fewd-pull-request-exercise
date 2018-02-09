@@ -74,6 +74,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
   ### Winter 2018 class
   * Brandon Renbaum: [github.com/slide165](https://github.com/slide165)
+  * Brenda Johnson: [github.com/brenda-john](https://github.com/brenda-john)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
