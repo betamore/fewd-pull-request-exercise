@@ -72,10 +72,11 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Lindsay Cheek: [github.com/lindsaycheek](https://github.com/lindsaycheek)
   * Nsikak Isaac Udoh:[github.com/isaacudoh](https://github.com/Isaacudoh)
 
-  ### Winter 2018 class
+#### Winter 2018 Class
+
   * Brandon Renbaum: [github.com/slide165](https://github.com/slide165)
-
-
+  * Ben Spier: [github.com/benspier](https://github.com/benspier)
+  
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
