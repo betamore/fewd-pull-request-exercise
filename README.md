@@ -77,7 +77,9 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Brandon Renbaum: [github.com/slide165](https://github.com/slide165)
   * Ben Spier: [github.com/benspier](https://github.com/benspier)
   * Brenda Johnson: [github.com/brenda-john](https://github.com/brenda-john)
-  
+  * Jim Munemitsu:
+  [github.com/yodaboomer](https://github.com/yodaboomer)
+
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
