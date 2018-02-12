@@ -77,8 +77,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Brandon Renbaum: [github.com/slide165](https://github.com/slide165)
   * Ben Spier: [github.com/benspier](https://github.com/benspier)
   * Brenda Johnson: [github.com/brenda-john](https://github.com/brenda-john)
-  * Kourtney Fulton
-  [github.com/kfulton727](https://github.com/kfulton727)
+  * Kourtney Fulton: [github.com/kfulton727](https://github.com/kfulton727)
+
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
