@@ -78,6 +78,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Ben Spier: [github.com/benspier](https://github.com/benspier)
   * Brenda Johnson: [github.com/brenda-john](https://github.com/brenda-john)
   * Jimmy Gosses: [github.com/jgosses](https://github.com/jgosses)
+  * Paige Henson: [github.com/phenson](https://github.com/phenson)
   
   
 #### Follow these steps to add your name and GitHub account to the above list:
