@@ -78,7 +78,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Ben Spier: [github.com/benspier](https://github.com/benspier)
   * Brenda Johnson: [github.com/brenda-john](https://github.com/brenda-john)
   * Jim Munemitsu:
-  [github.com/yodaboomer](https://github.com/yodaboomer)
+  [github.com/yodaboomer]
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
