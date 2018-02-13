@@ -72,7 +72,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Jonique K Green: [github.com/joniquegreen](https://github.com/joniquegreen)
   * Jason Fogg:[github.com/jrfogg](https://github.com/jrfogg)
   * Lindsay Cheek: [github.com/lindsaycheek](https://github.com/lindsaycheek)
-  * Nsikak Isaac Udoh:[github.com/isaacudoh](https://github.com/Isaacudoh)
+  * Varghese Joseph: [https://github.com/varkyhunter]
+  * Nsikak Isaac Udoh: [github.com/isaacudoh](https://github.com/Isaacudoh)
 
 #### Winter 2018 Class
 
