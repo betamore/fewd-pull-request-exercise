@@ -85,6 +85,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Paige Henson: [github.com/phenson](https://github.com/phenson)
   * Matt Stankiewicz: [github.com/mattstank](https://github.com/mattstank)
   * Jim Munemitsu: [github.com/yodaboomer](https://github.com/yodaboomer)
+  * Danielle Lestage: [github.com/dlestage](https://github.com/dlestage)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
