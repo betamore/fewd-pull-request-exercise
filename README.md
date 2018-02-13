@@ -69,6 +69,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Alex Machado: [github.com/amachado93](https://github.com/amachado93)
   * Han Castanedo: [github.com/hancas](https://github.com/hancas)
   * Jonique K Green: [github.com/joniquegreen](https://github.com/joniquegreen)
+  * Jason Fogg:[github.com/jrfogg](https://github.com/jrfogg)
   * Lindsay Cheek: [github.com/lindsaycheek](https://github.com/lindsaycheek)
   * Nsikak Isaac Udoh:[github.com/isaacudoh](https://github.com/Isaacudoh)
 
