@@ -72,7 +72,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Jonique K Green: [github.com/joniquegreen](https://github.com/joniquegreen)
   * Jason Fogg:[github.com/jrfogg](https://github.com/jrfogg)
   * Lindsay Cheek: [github.com/lindsaycheek](https://github.com/lindsaycheek)
-  * Varghese Joseph: [https://github.com/varkyhunter]
+  * Varghese Joseph: [https://github.com/varkyhunter](https://github.com/varkyhunter)
   * Nsikak Isaac Udoh: [github.com/isaacudoh](https://github.com/Isaacudoh)
 
 #### Winter 2018 Class
@@ -83,7 +83,9 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Jimmy Gosses: [github.com/jgosses](https://github.com/jgosses)
   * Paige Henson: [github.com/phenson](https://github.com/phenson)
   * Matt Stankiewicz: [github.com/mattstank](https://github.com/mattstank)
-  
+  * Jim Munemitsu: [github.com/yodaboomer](https://github.com/yodaboomer)
+
+
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
