@@ -68,9 +68,12 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Allison Henkel: [github.com/Allihenk](https://github.com/Allihenk)
   * Alex Machado: [github.com/amachado93](https://github.com/amachado93)
   * Han Castanedo: [github.com/hancas](https://github.com/hancas)
+  * Gwen Travis: [github.com/gtravis13](https://gthub.com/gtravis13)
   * Jonique K Green: [github.com/joniquegreen](https://github.com/joniquegreen)
+  * Jason Fogg:[github.com/jrfogg](https://github.com/jrfogg)
   * Lindsay Cheek: [github.com/lindsaycheek](https://github.com/lindsaycheek)
-  * Nsikak Isaac Udoh:[github.com/isaacudoh](https://github.com/Isaacudoh)
+  * Varghese Joseph: [https://github.com/varkyhunter](https://github.com/varkyhunter)
+  * Nsikak Isaac Udoh: [github.com/isaacudoh](https://github.com/Isaacudoh)
 
 #### Winter 2018 Class
 
@@ -78,6 +81,10 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Ben Spier: [github.com/benspier](https://github.com/benspier)
   * Brenda Johnson: [github.com/brenda-john](https://github.com/brenda-john)
   * Kourtney Fulton: [github.com/kfulton727](https://github.com/kfulton727)
+  * Jimmy Gosses: [github.com/jgosses](https://github.com/jgosses)
+  * Paige Henson: [github.com/phenson](https://github.com/phenson)
+  * Matt Stankiewicz: [github.com/mattstank](https://github.com/mattstank)
+  * Jim Munemitsu: [github.com/yodaboomer](https://github.com/yodaboomer)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
