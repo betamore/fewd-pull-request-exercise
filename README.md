@@ -80,6 +80,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Brandon Renbaum: [github.com/slide165](https://github.com/slide165)
   * Ben Spier: [github.com/benspier](https://github.com/benspier)
   * Brenda Johnson: [github.com/brenda-john](https://github.com/brenda-john)
+  * Kourtney Fulton: [github.com/kfulton727](https://github.com/kfulton727)
   * Jimmy Gosses: [github.com/jgosses](https://github.com/jgosses)
   * Paige Henson: [github.com/phenson](https://github.com/phenson)
   * Matt Stankiewicz: [github.com/mattstank](https://github.com/mattstank)
