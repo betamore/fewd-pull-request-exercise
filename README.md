@@ -83,6 +83,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Kourtney Fulton: [github.com/kfulton727](https://github.com/kfulton727)
   * Jimmy Gosses: [github.com/jgosses](https://github.com/jgosses)
   * Paige Henson: [github.com/phenson](https://github.com/phenson)
+  * Danielle Lestage: [github.com/dlestage](https://github/com/dlestage)
   * Matt Stankiewicz: [github.com/mattstank](https://github.com/mattstank)
   * Jim Munemitsu: [github.com/yodaboomer](https://github.com/yodaboomer)
 
