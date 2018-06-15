@@ -88,7 +88,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Danielle Lestage: [github.com/dlestage](https://github.com/dlestage)
 
   #### Spring 2018 Class
-  * Joe Jeppi: [github.com/dlestage](https://github.com/jjeppi)
+  * Joe Jeppi: [github.com/jjeppi](https://github.com/jjeppi)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
