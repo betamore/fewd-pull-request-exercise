@@ -90,6 +90,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   #### Spring 2018 Class
   * Joe Jeppi: [github.com/jjeppi](https://github.com/jjeppi)
   * Lyz Levine: [github.com/LyzLevine](https://github.com/LyzLevine)
+  * Tawanna Lanzit: [github.com/tlanzit](https://github.com/tlanzit)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
