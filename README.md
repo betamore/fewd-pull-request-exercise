@@ -92,6 +92,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Lyz Levine: [github.com/LyzLevine](https://github.com/LyzLevine)
   * Tawanna Lanzit: [github.com/tlanzit](https://github.com/tlanzit)
   * Walter Alvarez: [github.com/WalterAlvarez92](https://github.com/WalterAlvarez92) 
+  * Duane Shelton: [github.com/duaneshelton](https://github.com/DuaneShelton)
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
