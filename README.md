@@ -89,7 +89,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
   #### Spring 2018 Class
   * Joe Jeppi: [github.com/jjeppi](https://github.com/jjeppi)
-  * Walter Alvarez: [github.com/WalterAlvarez92](https://github.com/WalterAlvarez92)
+  * Walter Alvarez:[github.com/WalterAlvarez92](https://github.com/WalterAlvarez92)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
