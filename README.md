@@ -87,12 +87,18 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Jim Munemitsu: [github.com/yodaboomer](https://github.com/yodaboomer)
   * Danielle Lestage: [github.com/dlestage](https://github.com/dlestage)
 
-  #### Spring 2018 Class
+#### Spring 2018 Class
+
   * Joe Jeppi: [github.com/jjeppi](https://github.com/jjeppi)
   * Lyz Levine: [github.com/LyzLevine](https://github.com/LyzLevine)
   * Tawanna Lanzit: [github.com/tlanzit](https://github.com/tlanzit)
-  * Walter Alvarez: [github.com/WalterAlvarez92](https://github.com/WalterAlvarez92) 
+  * Walter Alvarez: [github.com/WalterAlvarez92](https://github.com/WalterAlvarez92)
   * Duane Shelton: [github.com/duaneshelton](https://github.com/DuaneShelton)
+
+#### Fall 2018 Class
+
+  * Nick Vandenberge: [github.com/nvandenberge](https://github.com/nvandenberge)
+
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
