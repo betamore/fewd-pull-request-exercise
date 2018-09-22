@@ -98,6 +98,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 #### Fall 2018 Class
 
   * Nick Vandenberge: [github.com/nvandenberge](https://github.com/nvandenberge)
+  * Nathan Shulkin [github.com/nateshulkin](https://github.com/nateshulkin)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
