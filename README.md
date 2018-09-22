@@ -97,8 +97,10 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
 #### Fall 2018 Class
 
-  * Nick Vandenberge: [github.com/nvandenberge](https://github.com/nvandenberge)
-
+  * Nick Vandenberge: [github.com/nvandenberge]
+  (https://github.com/nvandenberge)
+  * Tristan LaRoche: [https://github.com/taroche]
+  
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
