@@ -26,7 +26,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 #### Spring 2016 Class
 
   * Kat Botsford: [github.com/thekatbots](https://github.com/thekatbots)
-  * Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
+  * :v: Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
   * Luke Shin: [github.com/luke-shin](https://github.com/Luke-Shin)
   * Rhyan Vargas: [github.com/rhyanv](https://github.com/rhyanv)
   * Patrick Horner: [github.com/pshorner](https://github.com/pshorner)
