@@ -102,6 +102,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Mark Nowowiejski: [github.com/mnowowiejski](https://github.com/mnowowiejski)
   * Alexandra Hand: [github.com/ahand411](https://github.com/ahand411)
   * Tristan LaRoche: [github.com/taroche](https://github.com/taroche)
+  * Teri Cerny: [github.com/teri-cerny](https://github.com/teri-cerny/)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
