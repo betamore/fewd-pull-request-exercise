@@ -101,6 +101,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Nathan Shulkin: [github.com/nateshulkin](https://github.com/nateshulkin)
   * Mark Nowowiejski: [github.com/mnowowiejski](https://github.com/mnowowiejski)
   * Alexandra Hand: [github.com/ahand411](https://github.com/ahand411)
+  * Tristan LaRoche: [github.com/taroche](https://github.com/taroche)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
