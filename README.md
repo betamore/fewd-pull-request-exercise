@@ -103,6 +103,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Alexandra Hand: [github.com/ahand411](https://github.com/ahand411)
   * Tristan LaRoche: [github.com/taroche](https://github.com/taroche)
   * Sammy Busacca: [github.com/sammybusacca](https://github.com/sammybusacca)
+  * Christine Anthony: [github.com/chriscyber](https://github.com/chriscyber)
 
 
 #### Follow these steps to add your name and GitHub account to the above list:
