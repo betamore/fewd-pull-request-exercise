@@ -12,8 +12,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Sara Kenney: [github.com/SaraKenney](https://github.com/SaraKenney)
   * Marcellous Grant: [github.com.Marcellousg](https://github.com/Marcellousg)
   * Courtney Seitz: [github.com/CourtneySeitz](https://github.com/CourtneySeitz)
-  * Joyce Blair: [github.com/jblair53] (https://github.com/jblair530)
-  * Brian Baker: [github.com/brianthomasbaker] (https://github.com/brianthomasbaker)
+  * Joyce Blair: [github.com/jblair53](https://github.com/jblair530)
+  * Brian Baker: [github.com/brianthomasbaker](https://github.com/brianthomasbaker)
   * Jenna Shenk: [github.com/jshenk] (https://github.com/jshenk)
   * Spencer Buchness: [github.com/Sbuchness](https://github.com/SBuchness)
   * Rob Bridges: [github.com/RobBridges](https://github.com/rob-b-b-4)
@@ -110,20 +110,20 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 #### Follow these steps to add your name and GitHub account to the above list:
 
   * Fork this repository (make a personal copy into your GitHub account)
-  * Clone your fork (download the forked repo to the Betamore folder on your laptop)
-  * Create a `branch` off `master` and switch to it
-  * Open this file in your text editor and add your name and GitHub account to the above list
+  * Clone your fork (download the forked repo to the `/betamore` directory on your machine)
+  * Set up and pull from the `upstream` remote to ensure you are working with the most recent version of the repo (see **Sync with upstream** notes below)
+  * Create a your own branch off `master` and switch to it
+  * Open this file in your text editor and add your name and line to your GitHub account to the above list
   * Commit your changes
   * Push your changes
   * Open a pull request
 
 #### Sync with upstream
 
- To minimize the likelihood of merge conflicts, ensure that your fork is up to date with the destination repo of your pull request. Do this _before_ creating a branch off master:
+ To minimize the likelihood of merge conflicts, ensure that your fork is up to date with the source repo of your pull request. Do this _before_ creating a branch off master:
 
   * `git remote add upstream https://github.com/betamore/fewd-pull-request-exercise.git`
-  * `git fetch upstream`
   * `git checkout master`
-  * `git rebase upstream/master`
+  * `git pull upstream master`
 
 For additional instructions, visit [GitHub Help](https://help.github.com/categories/collaborating-on-projects-using-pull-requests/).
