@@ -14,7 +14,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Courtney Seitz: [github.com/CourtneySeitz](https://github.com/CourtneySeitz)
   * Joyce Blair: [github.com/jblair53](https://github.com/jblair530)
   * Brian Baker: [github.com/brianthomasbaker](https://github.com/brianthomasbaker)
-  * Jenna Shenk: [github.com/jshenk] (https://github.com/jshenk)
+  * Jenna Shenk: [github.com/jshenk](https://github.com/jshenk)
   * Spencer Buchness: [github.com/Sbuchness](https://github.com/SBuchness)
   * Rob Bridges: [github.com/RobBridges](https://github.com/rob-b-b-4)
   * Courtney Holt: [github.com/cvholt](https://github.com/cvholt)
@@ -26,7 +26,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 #### Spring 2016 Class
 
   * Kat Botsford: [github.com/thekatbots](https://github.com/thekatbots)
-  * :v: :v: Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
+  * :metal: Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
   * Luke Shin: [github.com/luke-shin](https://github.com/Luke-Shin)
   * Rhyan Vargas: [github.com/rhyanv](https://github.com/rhyanv)
   * Patrick Horner: [github.com/pshorner](https://github.com/pshorner)
