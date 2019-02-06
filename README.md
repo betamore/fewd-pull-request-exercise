@@ -14,7 +14,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Courtney Seitz: [github.com/CourtneySeitz](https://github.com/CourtneySeitz)
   * Joyce Blair: [github.com/jblair53](https://github.com/jblair530)
   * Brian Baker: [github.com/brianthomasbaker](https://github.com/brianthomasbaker)
-  * Jenna Shenk: [github.com/jshenk] (https://github.com/jshenk)
+  * Jenna Shenk: [github.com/jshenk](https://github.com/jshenk)
   * Spencer Buchness: [github.com/Sbuchness](https://github.com/SBuchness)
   * Rob Bridges: [github.com/RobBridges](https://github.com/rob-b-b-4)
   * Courtney Holt: [github.com/cvholt](https://github.com/cvholt)
