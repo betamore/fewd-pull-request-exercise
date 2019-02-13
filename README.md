@@ -107,11 +107,11 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Teri Cerny: [github.com/teri-cerny](https://github.com/teri-cerny/)
   * Michael Le: [github.com/rangermyke](https://github.com/Rangermyke)
 
-  #### Spring 2019 Class
-
+#### Winter 2019 Class
+  * Julie Spokus: [github.com/jspokeBeta](https://github.com/jspokeBeta)
   * Ying Yu: [github.com/yingyu2018](https://github.com/yingyu2018)
 
-
+---
 
 #### Follow these steps to add your name and GitHub account to the above list:
 
