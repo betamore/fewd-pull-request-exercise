@@ -2,9 +2,10 @@
 
 With this exercise we are attempting to collect the GitHub accounts of all students in the class.
 
-### FEWD GitHub Accounts
+### Betamore FEWD Academy Instructors
 
   * Tom Kraak (instructor): [github.com/tkraak](https://github.com/tkraak)
+  * :metal: Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
 
 #### Winter 2016 Class
 
@@ -26,7 +27,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 #### Spring 2016 Class
 
   * Kat Botsford: [github.com/thekatbots](https://github.com/thekatbots)
-  * :metal: Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
+  * Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
   * Luke Shin: [github.com/luke-shin](https://github.com/Luke-Shin)
   * Rhyan Vargas: [github.com/rhyanv](https://github.com/rhyanv)
   * Patrick Horner: [github.com/pshorner](https://github.com/pshorner)
