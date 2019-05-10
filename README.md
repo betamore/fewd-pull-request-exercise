@@ -112,6 +112,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Julie Spokus: [github.com/jspokeBeta](https://github.com/jspokeBeta)
   * Ying Yu: [github.com/yingyu2018](https://github.com/yingyu2018)
 
+#### Spring 2019 Class  
+
 ---
 
 #### Follow these steps to add your name and GitHub account to the above list:
