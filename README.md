@@ -113,7 +113,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
   * Ying Yu: [github.com/yingyu2018](https://github.com/yingyu2018)
 
 #### Spring 2019 Class  
-
+Adina Jaffee
 ---
 
 #### Follow these steps to add your name and GitHub account to the above list:
