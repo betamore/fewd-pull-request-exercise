@@ -114,6 +114,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
 #### Spring 2019 Class  
   * Adina Jaffee: [github.com/adinajaffee2019](https://github.com/adinajaffee2019)
+  * Nathan Caraker: [github.com/ncaraker117](https://github.com/ncaraker117)
 ---
 
 #### Follow these steps to add your name and GitHub account to the above list:
