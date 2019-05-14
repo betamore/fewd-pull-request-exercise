@@ -5,7 +5,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 ### Betamore FEWD Academy Instructors
 
 - Tom Kraak (instructor): [github.com/tkraak](https://github.com/tkraak)
-- :metal: Zac Heisey: [github.com/zac-heisey](https://github.com/zac-heisey)
+- :metal: Zac Heisey (instructor): [github.com/zac-heisey](https://github.com/zac-heisey)
 
 #### Winter 2016 Class
 
