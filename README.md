@@ -119,6 +119,7 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 - Nathan Caraker: [github.com/ncaraker117](https://github.com/ncaraker117)
 - Mark Novicio: [github.com/MarkNovicio](https://github.com/MarkNovicio)
 - Gabi Payano: [github.com/PayanoGabi](https://github.com/PayanoGabi/)
+- Justin Howard [https://github.com/zorro1rr](https://github.com/zorro1rr)
 
 ---
 
