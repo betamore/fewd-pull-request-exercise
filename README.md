@@ -124,8 +124,9 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 
 #### Winter 2020 Class
 
-- Cali Kafouros [github.com/calikafouros](https:github.com/calikafouros)
-- Mattie Anjum [github.com/saintmatt](https://github.com/saintmatt)
+- Eden Schlessinger: [github.com/gardenofeden12](https://github.com/gardenofeden12)
+- Cali Kafouros: [github.com/calikafouros](https:github.com/calikafouros)
+- Mattie Anjum: [github.com/saintmatt](https://github.com/saintmatt)
 
 ---
 
