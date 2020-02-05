@@ -122,6 +122,8 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 - Justin Howard [https://github.com/zorro1rr](https://github.com/zorro1rr)
 - Autumn Richardson [github.com/autumnrich](https://github.com/autumnrich)
 
+- Zac Heisey [github.com/zac-heisey](https://github.com/zac-heisey)
+
 ---
 
 #### Follow these steps to add your name and GitHub account to the above list:
