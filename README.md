@@ -122,8 +122,9 @@ With this exercise we are attempting to collect the GitHub accounts of all stude
 - Justin Howard [https://github.com/zorro1rr](https://github.com/zorro1rr)
 - Autumn Richardson [github.com/autumnrich](https://github.com/autumnrich)
 
----
+#### Winter 2020 Class
 
+- Eden Schlessinger: [github.com/gardenofeden12](https://github.com/gardenofeden12)
 #### Follow these steps to add your name and GitHub account to the above list:
 
 - Fork this repository (make a personal copy into your GitHub account)
